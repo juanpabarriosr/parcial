@@ -1,4 +1,4 @@
-public class Pregunta8 {
+public class FailFast {
 	
 	public void FailFastSucio(int numero1, int numero2, int numero3)
 	{
